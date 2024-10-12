@@ -1,16 +1,21 @@
-<a href="https://www.youtube.com/@%EA%B0%95%EB%AA%85%EB%AC%B5-m3p" target="_blank">
-  <img src="https://img.shields.io/badge/Youtube-FF0000?style=Flat-square&logo=youtube&logoColor=FFFFFF" />
-</a>
-<a href="mailto:kangmm6821@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=Flat-square&logo=gmail&logoColor=FFFFFF" />
-</a>
+<h1 align="center">👋 Hi, I'm Mook</h1>
+<p align="center">
+  <a href="https://www.youtube.com/@%EA%B0%95%EB%AA%85%EB%AC%B5-m3p" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kangmm6821@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+<h3>🎓 Major</h3>
+<p>Electronic Control Engineering</p>
 
-👋 Hi, I’m mook
+<h3>💡 Interests</h3>
+<p>Embedded Systems and Computer Vision</p>
 
-Major : Electronic Control Engineering
-
-I'm interested in Embedded System and Computer Vision
+---
 
 <h3>🛠 Programming Languages</h3>
 <p>
@@ -30,12 +35,13 @@ I'm interested in Embedded System and Computer Vision
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 </p>
+
 <h3>🛠 Embedded Systems</h3>
 <p>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Atmega128-003399?style=for-the-badge&logo=atmel&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Atmega128-003399?style=for-the-badge" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TM4C123GXL-0078D7?style=for-the-badge&logo=ti&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/IAR-FF6C37?style=for-the-badge&logo=iar&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Keil-00599C?style=for-the-badge&logo=keil&logoColor=white" />
