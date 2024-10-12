@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Youtube-FF0000?style=Flat-square&logo=youtube&logoColor=FFFFFF" />
 </a>
 <a href="mailto:kangmm6821@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=Flat-square&logo=gmail&logoColor=FFFFFF" />
 </a>
 
 
