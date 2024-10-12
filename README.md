@@ -12,8 +12,7 @@ Major : Electronic Control Engineering
 
 I'm interested in Embedded System and Computer Vision
 
-<img src="https://img.shields.io/badge/Skills-555555?style=plastic&logo=tools&logoColor=FFFFFF" />
-Skills
-<img src="https://img.shields.io/badge/Python-3776AB?style=Flat-square&logo=python&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=Flat-square&logo=c&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/C++-00599C?style=Flat-square&logo=cplusplus&logoColor=FFFFFF" />
+🛠 Skills
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
