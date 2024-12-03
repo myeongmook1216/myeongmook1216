@@ -13,7 +13,7 @@
 <p>Electronic Control Engineering</p>
 
 <h3>💡 Interests</h3>
-<p>Embedded Systems and Computer Vision</p>
+<p>Digital Circuit Design and Embedded Systems, Computer Vision</p>
 
 ---
 
