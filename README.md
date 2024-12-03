@@ -19,6 +19,7 @@
 
 <h3>🛠 Programming Languages</h3>
 <p>
+  <img src="https://img.shields.io/badge/Verilog-00BFFF?style=for-the-badge&logo=verilog&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -26,6 +27,7 @@
 
 <h3>🛠 Development Tools & Frameworks</h3>
 <p>
+  <img src="https://img.shields.io/badge/Quartus-1572B6?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />&nbsp;&nbsp;
